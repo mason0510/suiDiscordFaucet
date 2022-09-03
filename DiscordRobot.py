@@ -43,7 +43,6 @@ if __name__ == "__main__":
             chat(chanel_list,authorization_list)
             sleeptime = random.randrange(600, 666)
             time.sleep(sleeptime)
-            #打印日志
             print("sleep {}s".format(sleeptime))
         except:
             break
