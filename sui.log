@@ -1,0 +1,8 @@
+https://discord.com/api/v9/channels/971488439931392130/messages
+{
+  "code": 20016, 
+  "global": false, 
+  "message": "This action cannot be performed due to slowmode rate limit", 
+  "retry_after": 6791.811
+}
+

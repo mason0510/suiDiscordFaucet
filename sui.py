@@ -44,7 +44,7 @@ if __name__ == "__main__":
     while True:
         try:
             chat(chanel_list,authorization_list)
-            sleeptime = random.randrange(5000, 5500)
+            sleeptime = random.randrange(7000, 7200)
             time.sleep(sleeptime)
             print("sleep {}s".format(sleeptime))
         except:
